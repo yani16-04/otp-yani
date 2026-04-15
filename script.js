@@ -13,10 +13,9 @@ import {
   projectId: "email-16",
   storageBucket: "email-16.firebasestorage.app",
   messagingSenderId: "539785360821",
-  appId: "1:539785360821:web:1bba221a01f80660c455fc",
-  measurementId: "G-4ERC88MRGT"
+  appId: "1:539785360821:web:eca92bca7f14b55dc455fc",
+  measurementId: "G-3GMPNZ50ED"
 };
-
   authDomain: "YOUR_DOMAIN",
   projectId: "YOUR_PROJECT_ID",
 };
