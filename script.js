@@ -7,8 +7,16 @@ import {
 } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-auth.js";
 
 // 🔥 Paste YOUR Firebase config here
-const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
+  const firebaseConfig = {
+  apiKey: "AIzaSyARwYyLEgzK7bRytv5GjGF9wjOPJpTpHY4",
+  authDomain: "email-16.firebaseapp.com",
+  projectId: "email-16",
+  storageBucket: "email-16.firebasestorage.app",
+  messagingSenderId: "539785360821",
+  appId: "1:539785360821:web:1bba221a01f80660c455fc",
+  measurementId: "G-4ERC88MRGT"
+};
+
   authDomain: "YOUR_DOMAIN",
   projectId: "YOUR_PROJECT_ID",
 };
